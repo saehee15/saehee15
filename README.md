@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=saehee'github&fontColor=ffffff&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=saehee'github&fontColor=ffffff&fontSize=80)
 
 ### Hi there 👋
 
