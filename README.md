@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=7CC9E6&height=200&section=header&text=saeheePark&fontColor=ffffff&fontSize=80)
 
+<br /><br />
 
 ## 👍 Skills
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
