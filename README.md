@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=7CC9E6&height=200&section=header&text=saeheePark&fontColor=ffffff&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=5EB2DB&height=200&section=header&text=saeheePark&fontColor=ffffff&fontSize=80)
 
 <br /><br />
 
